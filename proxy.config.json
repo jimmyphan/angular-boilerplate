@@ -1,0 +1,10 @@
+{
+  "/api/people": {
+    "target": "http://localhost:3000",
+    "secure": false
+  },
+  "/api/starships": {
+    "target": "http://localhost:3000",
+    "secure": false
+  }
+}

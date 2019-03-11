@@ -1,0 +1,86 @@
+{
+  "agencyDetail": {
+    "card": {
+      "title": "Agency Details",
+      "editUrl": "/Agency/UpdateBranchForm/",
+      "id": "115"
+    },
+    "company": {
+      "agencyName": "Atkinson Leon Plc",
+      "branchName": "Martin Riggs",
+      "isBranch": false
+    },
+    "address": [
+      {
+        "type": "Primary Contact",
+        "street1": "56 First Parkway",
+        "street2": null,
+        "city": null,
+        "state": "North Dakota",
+        "zip": "97124"
+      },
+      {
+        "type": "Broker of Record",
+        "street1": "98 Oak Parkway",
+        "street2": null,
+        "city": null,
+        "state": "Wisconsin",
+        "zip": "79159"
+      }
+    ],
+    "contact": {
+      "phone": [
+        {
+          "id": 221,
+          "value": "(767) 664-0035",
+          "type": "Main"
+        },
+        {
+          "id": 222,
+          "value": "(767) 664-0035",
+          "type": "Main"
+        }
+      ],
+      "email": [
+        {
+          "id": 188,
+          "value": "simug@mailinator.net"
+        },
+        {
+          "id": 189,
+          "value": "simug@mailinator.net"
+        }
+      ]
+    },
+    "contactTime": {
+      "M": {
+        "open": "09:30 AM",
+        "close": "06:30 AM"
+      },
+      "T": {
+        "open": "09:30 AM",
+        "close": "06:30 AM"
+      },
+      "W": {
+        "open": "09:30 AM",
+        "close": "06:30 AM"
+      },
+      "TH": {
+        "open": "09:30 AM",
+        "close": "06:30 AM"
+      },
+      "F": {
+        "open": "09:30 AM",
+        "close": "06:30 AM"
+      },
+      "S": {
+        "open": "09:30 AM",
+        "close": "06:30 AM"
+      },
+      "SU": {
+        "open": "09:30 AM",
+        "close": "06:30 AM"
+      }
+    }
+  }
+}

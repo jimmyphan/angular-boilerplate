@@ -1,0 +1,12 @@
+{
+  "starship": [
+    {
+      "name": "Executor",
+      "model": "Executor-class star dreadnought"
+    },
+    {
+      "name": "Happy",
+      "model": "Happy-class star dreadnought"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "agencyList": {
+    "filter": [
+      {
+        "label": "All Agencies",
+        "count": 11
+      },
+      {
+        "label": "Active",
+        "count": 3
+      },
+      {
+        "label": "Inactive",
+        "count": 1
+      },
+      {
+        "label": "Suspended",
+        "count": 0
+      },
+      {
+        "label": "Blacklisted",
+        "count": 1
+      },
+      {
+        "label": "Protected",
+        "count": 1
+      }
+    ],
+    "columns": [
+      {
+        "data": "Agency"
+      },
+      {
+        "data": "State"
+      },
+      {
+        "data": "License ID"
+      },
+      {
+        "data": "Main Contact"
+      },
+      {
+        "data": "Active Agents"
+      },
+      { "data": "Active Transactions" },
+      { "data": "Status" },
+      { "data": "_phone" },
+      { "data": "_email" }
+    ],
+    "data": [
+      {
+        "branch": "Atkinson Leon Plc",
+        "state": "North Dakota",
+        "licenseId": "",
+        "mainContact": "",
+        "activeAgents": 5,
+        "activeTransactions": 0,
+        "status": "Protected",
+        "__branchUrl": "/Agency/Details/B00115",
+        "__agentUrl": "/Agent/Details/A00000",
+        "_phone": "7676640035",
+        "_email": "simug@mailinator.net"
+      },
+      {
+        "branch": "David Pittman Traders",
+        "state": "Arizona",
+        "licenseId": "362958BY",
+        "mainContact": "Winifred Copeland",
+        "activeAgents": 32,
+        "activeTransactions": 5,
+        "status": "Active",
+        "__branchUrl": "/Agency/Details/B00109",
+        "__agentUrl": "/Agent/Details/A00324",
+        "_phone": "6247945173",
+        "_email": "popeze@mailinator.net"
+      },
+      {
+        "branch": "Faulkner Dickson Associates",
+        "state": "Alabama",
+        "licenseId": "",
+        "mainContact": "",
+        "activeAgents": 4,
+        "activeTransactions": 0,
+        "status": "Blacklisted",
+        "__branchUrl": "/Agency/Details/B00112",
+        "__agentUrl": "/Agent/Details/A00000",
+        "_phone": "7919427662",
+        "_email": "kagog@mailinator.com"
+      },
+      {
+        "branch": "Holland Haley Traders",
+        "state": "Montana",
+        "licenseId": "",
+        "mainContact": "",
+        "activeAgents": 4,
+        "activeTransactions": 0,
+        "status": "Active",
+        "__branchUrl": "/Agency/Details/B00111",
+        "__agentUrl": "/Agent/Details/A00000",
+        "_phone": "6131233298",
+        "_email": "qiryviqyv@mailinator.net"
+      },
+      {
+        "branch": "Lester Riley Associates",
+        "state": "",
+        "licenseId": "",
+        "mainContact": "",
+        "activeAgents": 0,
+        "activeTransactions": 0,
+        "status": "",
+        "__branchUrl": "/Agency/Details/B00120",
+        "__agentUrl": "/Agent/Details/A00000",
+        "_phone": "",
+        "_email": ""
+      },
+      {
+        "branch": "Pete Test",
+        "state": "California",
+        "licenseId": "",
+        "mainContact": "Stewart Nicholson",
+        "activeAgents": 0,
+        "activeTransactions": 0,
+        "status": "Active",
+        "__branchUrl": "/Agency/Details/B00118",
+        "__agentUrl": "/Agent/Details/A00343",
+        "_phone": "",
+        "_email": ""
+      },
+      {
+        "branch": "Pierce and Sanchez Trading",
+        "state": "",
+        "licenseId": "",
+        "mainContact": "",
+        "activeAgents": 0,
+        "activeTransactions": 0,
+        "status": "",
+        "__branchUrl": "/Agency/Details/B00122",
+        "__agentUrl": "/Agent/Details/A00000",
+        "_phone": "",
+        "_email": ""
+      },
+      {
+        "branch": "Roach Horn Traders",
+        "state": "North Dakota",
+        "licenseId": "",
+        "mainContact": "",
+        "activeAgents": 0,
+        "activeTransactions": 0,
+        "status": "Departed ",
+        "__branchUrl": "/Agency/Details/B00116",
+        "__agentUrl": "/Agent/Details/A00000",
+        "_phone": "6927681282",
+        "_email": "jysokebov@mailinator.com"
+      },
+      {
+        "branch": "Ross Perkins LLC",
+        "state": "Rhode Island",
+        "licenseId": "",
+        "mainContact": "",
+        "activeAgents": 0,
+        "activeTransactions": 0,
+        "status": "",
+        "__branchUrl": "/Agency/Details/B00119",
+        "__agentUrl": "/Agent/Details/A00000",
+        "_phone": "8496533259",
+        "_email": "nydolure@mailinator.net"
+      },
+      {
+        "branch": "Sellers and Foster Associates",
+        "state": "South Carolina",
+        "licenseId": "",
+        "mainContact": "",
+        "activeAgents": 1,
+        "activeTransactions": 0,
+        "status": "Inactive",
+        "__branchUrl": "/Agency/Details/B00117",
+        "__agentUrl": "/Agent/Details/A00000",
+        "_phone": "5857488265",
+        "_email": "zomuzumo@mailinator.com"
+      },
+      {
+        "branch": "Test Agency",
+        "state": "",
+        "licenseId": "",
+        "mainContact": "",
+        "activeAgents": 0,
+        "activeTransactions": 0,
+        "status": "",
+        "__branchUrl": "/Agency/Details/B00121",
+        "__agentUrl": "/Agent/Details/A00000",
+        "_phone": "",
+        "_email": ""
+      }
+    ]
+  }
+}

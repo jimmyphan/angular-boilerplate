@@ -1,0 +1,512 @@
+{
+  "agencyForm": {
+    "formType": "Edit",
+    "postUrl": "/Agency/UpdateBranch/",
+    "company": {
+      "agencyName": "Atkinson Leon Plc",
+      "branchName": "Martin Riggs",
+      "agencyId": 81,
+      "branchId": 115,
+      "parentId": 0,
+      "isBranch": false
+    },
+    "referral": {
+      "fee": 35,
+      "source": null
+    },
+    "address": [
+      {
+        "id": 156,
+        "type": "Call",
+        "typeId": 1,
+        "street1": "56 First Parkway",
+        "street2": null,
+        "city": null,
+        "state": "North Dakota",
+        "stateId": 35,
+        "zip": "97124"
+      },
+      {
+        "id": 157,
+        "type": "Email",
+        "typeId": 2,
+        "street1": "98 Oak Parkway",
+        "street2": null,
+        "city": null,
+        "state": "Wisconsin",
+        "stateId": 50,
+        "zip": "79159"
+      }
+    ],
+    "contact": {
+      "phone": [
+        {
+          "id": 221,
+          "value": "(767) 664-0035",
+          "type": "Main",
+          "typeId": 2
+        },
+        {
+          "id": 222,
+          "value": "(767) 664-0035",
+          "type": "Main",
+          "typeId": 2
+        }
+      ],
+      "email": [
+        {
+          "id": 188,
+          "value": "simug@mailinator.net"
+        },
+        {
+          "id": 189,
+          "value": "simug@mailinator.net"
+        }
+      ]
+    },
+    "contactTime": [
+      {
+        "id": 85,
+        "start": "09:30 AM",
+        "startId": 0,
+        "end": "06:30 AM",
+        "endId": 0,
+        "M": true,
+        "T": true,
+        "W": true,
+        "TH": true,
+        "F": true,
+        "S": true,
+        "SU": true
+      }
+    ],
+    "dictionary": {
+      "state": [
+        {
+          "id": 1,
+          "value": "Alabama"
+        },
+        {
+          "id": 2,
+          "value": "Alaska"
+        },
+        {
+          "id": 3,
+          "value": "Arizona"
+        },
+        {
+          "id": 4,
+          "value": "Arkansas"
+        },
+        {
+          "id": 5,
+          "value": "California"
+        },
+        {
+          "id": 6,
+          "value": "Colorado"
+        },
+        {
+          "id": 7,
+          "value": "Connecticut"
+        },
+        {
+          "id": 8,
+          "value": "Delaware"
+        },
+        {
+          "id": 9,
+          "value": "District of Columbia"
+        },
+        {
+          "id": 10,
+          "value": "Florida"
+        },
+        {
+          "id": 11,
+          "value": "Georgia"
+        },
+        {
+          "id": 12,
+          "value": "Hawaii"
+        },
+        {
+          "id": 13,
+          "value": "Idaho"
+        },
+        {
+          "id": 14,
+          "value": "Illinois"
+        },
+        {
+          "id": 15,
+          "value": "Indiana"
+        },
+        {
+          "id": 16,
+          "value": "Iowa"
+        },
+        {
+          "id": 17,
+          "value": "Kansas"
+        },
+        {
+          "id": 18,
+          "value": "Kentucky"
+        },
+        {
+          "id": 19,
+          "value": "Louisiana"
+        },
+        {
+          "id": 20,
+          "value": "Maine"
+        },
+        {
+          "id": 21,
+          "value": "Maryland"
+        },
+        {
+          "id": 22,
+          "value": "Massachusetts"
+        },
+        {
+          "id": 23,
+          "value": "Michigan"
+        },
+        {
+          "id": 24,
+          "value": "Minnesota"
+        },
+        {
+          "id": 25,
+          "value": "Mississippi"
+        },
+        {
+          "id": 26,
+          "value": "Missouri"
+        },
+        {
+          "id": 27,
+          "value": "Montana"
+        },
+        {
+          "id": 28,
+          "value": "Nebraska"
+        },
+        {
+          "id": 29,
+          "value": "Nevada"
+        },
+        {
+          "id": 30,
+          "value": "New Hampshire"
+        },
+        {
+          "id": 31,
+          "value": "New Jersey"
+        },
+        {
+          "id": 32,
+          "value": "New Mexico"
+        },
+        {
+          "id": 33,
+          "value": "New York"
+        },
+        {
+          "id": 34,
+          "value": "North Carolina"
+        },
+        {
+          "id": 35,
+          "value": "North Dakota"
+        },
+        {
+          "id": 36,
+          "value": "Ohio"
+        },
+        {
+          "id": 37,
+          "value": "Oklahoma"
+        },
+        {
+          "id": 38,
+          "value": "Oregon"
+        },
+        {
+          "id": 39,
+          "value": "Pennsylvania"
+        },
+        {
+          "id": 40,
+          "value": "Rhode Island"
+        },
+        {
+          "id": 41,
+          "value": "South Carolina"
+        },
+        {
+          "id": 42,
+          "value": "South Dakota"
+        },
+        {
+          "id": 43,
+          "value": "Tennessee"
+        },
+        {
+          "id": 44,
+          "value": "Texas"
+        },
+        {
+          "id": 45,
+          "value": "Utah"
+        },
+        {
+          "id": 46,
+          "value": "Vermont"
+        },
+        {
+          "id": 47,
+          "value": "Virginia"
+        },
+        {
+          "id": 48,
+          "value": "Washington"
+        },
+        {
+          "id": 49,
+          "value": "West Virginia"
+        },
+        {
+          "id": 50,
+          "value": "Wisconsin"
+        },
+        {
+          "id": 51,
+          "value": "Wyoming"
+        }
+      ],
+      "phoneType": [
+        {
+          "id": 1,
+          "value": "Mobile"
+        },
+        {
+          "id": 2,
+          "value": "Main"
+        },
+        {
+          "id": 3,
+          "value": "Pagers"
+        },
+        {
+          "id": 4,
+          "value": "Fax"
+        },
+        {
+          "id": 5,
+          "value": "After Hours"
+        },
+        {
+          "id": 6,
+          "value": "Other"
+        }
+      ],
+      "time": [
+        {
+          "id": 1,
+          "value": "00:00 AM"
+        },
+        {
+          "id": 2,
+          "value": "00:30 AM"
+        },
+        {
+          "id": 3,
+          "value": "01:00 AM"
+        },
+        {
+          "id": 4,
+          "value": "01:30 AM"
+        },
+        {
+          "id": 5,
+          "value": "02:00 AM"
+        },
+        {
+          "id": 6,
+          "value": "02:30 AM"
+        },
+        {
+          "id": 7,
+          "value": "03:00 AM"
+        },
+        {
+          "id": 8,
+          "value": "03:30 AM"
+        },
+        {
+          "id": 9,
+          "value": "04:00 AM"
+        },
+        {
+          "id": 10,
+          "value": "04:30 AM"
+        },
+        {
+          "id": 11,
+          "value": "05:00 AM"
+        },
+        {
+          "id": 12,
+          "value": "05:30 AM"
+        },
+        {
+          "id": 13,
+          "value": "06:00 AM"
+        },
+        {
+          "id": 14,
+          "value": "06:30 AM"
+        },
+        {
+          "id": 15,
+          "value": "07:00 AM"
+        },
+        {
+          "id": 16,
+          "value": "07:30 AM"
+        },
+        {
+          "id": 17,
+          "value": "08:00 AM"
+        },
+        {
+          "id": 18,
+          "value": "08:30 AM"
+        },
+        {
+          "id": 19,
+          "value": "09:00 AM"
+        },
+        {
+          "id": 20,
+          "value": "09:30 AM"
+        },
+        {
+          "id": 21,
+          "value": "10:00 AM"
+        },
+        {
+          "id": 22,
+          "value": "10:30 AM"
+        },
+        {
+          "id": 23,
+          "value": "11:00 AM"
+        },
+        {
+          "id": 24,
+          "value": "11:30 AM"
+        },
+        {
+          "id": 25,
+          "value": "12:00 PM"
+        },
+        {
+          "id": 26,
+          "value": "12:30 PM"
+        },
+        {
+          "id": 27,
+          "value": "01:00 PM"
+        },
+        {
+          "id": 28,
+          "value": "01:30 PM"
+        },
+        {
+          "id": 29,
+          "value": "02:00 PM"
+        },
+        {
+          "id": 30,
+          "value": "02:30 PM"
+        },
+        {
+          "id": 31,
+          "value": "03:00 PM"
+        },
+        {
+          "id": 32,
+          "value": "03:30 PM"
+        },
+        {
+          "id": 33,
+          "value": "04:00 PM"
+        },
+        {
+          "id": 34,
+          "value": "04:30 PM"
+        },
+        {
+          "id": 35,
+          "value": "05:00 PM"
+        },
+        {
+          "id": 36,
+          "value": "05:30 PM"
+        },
+        {
+          "id": 37,
+          "value": "06:00 PM"
+        },
+        {
+          "id": 38,
+          "value": "06:30 PM"
+        },
+        {
+          "id": 39,
+          "value": "07:00 PM"
+        },
+        {
+          "id": 40,
+          "value": "07:30 PM"
+        },
+        {
+          "id": 41,
+          "value": "08:00 PM"
+        },
+        {
+          "id": 42,
+          "value": "08:30 PM"
+        },
+        {
+          "id": 43,
+          "value": "09:00 PM"
+        },
+        {
+          "id": 44,
+          "value": "09:30 PM"
+        },
+        {
+          "id": 45,
+          "value": "10:00 PM"
+        },
+        {
+          "id": 46,
+          "value": "10:30 PM"
+        },
+        {
+          "id": 47,
+          "value": "11:00 PM"
+        },
+        {
+          "id": 48,
+          "value": "11:30 PM"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,878 @@
+{
+  "agencyForm": {
+    "formType": "Edit",
+    "postUrl": "/Agency/UpdateBranch/",
+    "company": {
+      "agencyName": "Atkinson Leon Plc",
+      "branchName": "Martin Riggs",
+      "agencyId": 81,
+      "branchId": 115,
+      "parentId": 0,
+      "isBranch": false
+    },
+    "referral": {
+      "fee": 35,
+      "source": null
+    },
+    "address": [
+      {
+        "id": 156,
+        "type": "Call",
+        "typeId": 1,
+        "street1": "56 First Parkway",
+        "street2": null,
+        "city": null,
+        "state": "North Dakota",
+        "stateId": 35,
+        "zip": "97124"
+      },
+      {
+        "id": 157,
+        "type": "Email",
+        "typeId": 2,
+        "street1": "98 Oak Parkway",
+        "street2": null,
+        "city": null,
+        "state": "Wisconsin",
+        "stateId": 50,
+        "zip": "79159"
+      }
+    ],
+    "contact": {
+      "phone": [
+        {
+          "id": 221,
+          "value": "(767) 664-0035",
+          "type": "Main",
+          "typeId": 2
+        },
+        {
+          "id": 222,
+          "value": "(767) 664-0035",
+          "type": "Main",
+          "typeId": 2
+        }
+      ],
+      "email": [
+        {
+          "id": 188,
+          "value": "simug@mailinator.net"
+        },
+        {
+          "id": 189,
+          "value": "simug@mailinator.net"
+        }
+      ]
+    },
+    "contactTime": [
+      {
+        "id": 85,
+        "start": "09:30 AM",
+        "startId": 0,
+        "end": "06:30 AM",
+        "endId": 0,
+        "M": true,
+        "T": true,
+        "W": true,
+        "TH": true,
+        "F": true,
+        "S": true,
+        "SU": true
+      }
+    ],
+    "dictionary": {
+      "state": [
+        {
+          "id": 1,
+          "value": "Alabama"
+        },
+        {
+          "id": 2,
+          "value": "Alaska"
+        },
+        {
+          "id": 3,
+          "value": "Arizona"
+        },
+        {
+          "id": 4,
+          "value": "Arkansas"
+        },
+        {
+          "id": 5,
+          "value": "California"
+        },
+        {
+          "id": 6,
+          "value": "Colorado"
+        },
+        {
+          "id": 7,
+          "value": "Connecticut"
+        },
+        {
+          "id": 8,
+          "value": "Delaware"
+        },
+        {
+          "id": 9,
+          "value": "District of Columbia"
+        },
+        {
+          "id": 10,
+          "value": "Florida"
+        },
+        {
+          "id": 11,
+          "value": "Georgia"
+        },
+        {
+          "id": 12,
+          "value": "Hawaii"
+        },
+        {
+          "id": 13,
+          "value": "Idaho"
+        },
+        {
+          "id": 14,
+          "value": "Illinois"
+        },
+        {
+          "id": 15,
+          "value": "Indiana"
+        },
+        {
+          "id": 16,
+          "value": "Iowa"
+        },
+        {
+          "id": 17,
+          "value": "Kansas"
+        },
+        {
+          "id": 18,
+          "value": "Kentucky"
+        },
+        {
+          "id": 19,
+          "value": "Louisiana"
+        },
+        {
+          "id": 20,
+          "value": "Maine"
+        },
+        {
+          "id": 21,
+          "value": "Maryland"
+        },
+        {
+          "id": 22,
+          "value": "Massachusetts"
+        },
+        {
+          "id": 23,
+          "value": "Michigan"
+        },
+        {
+          "id": 24,
+          "value": "Minnesota"
+        },
+        {
+          "id": 25,
+          "value": "Mississippi"
+        },
+        {
+          "id": 26,
+          "value": "Missouri"
+        },
+        {
+          "id": 27,
+          "value": "Montana"
+        },
+        {
+          "id": 28,
+          "value": "Nebraska"
+        },
+        {
+          "id": 29,
+          "value": "Nevada"
+        },
+        {
+          "id": 30,
+          "value": "New Hampshire"
+        },
+        {
+          "id": 31,
+          "value": "New Jersey"
+        },
+        {
+          "id": 32,
+          "value": "New Mexico"
+        },
+        {
+          "id": 33,
+          "value": "New York"
+        },
+        {
+          "id": 34,
+          "value": "North Carolina"
+        },
+        {
+          "id": 35,
+          "value": "North Dakota"
+        },
+        {
+          "id": 36,
+          "value": "Ohio"
+        },
+        {
+          "id": 37,
+          "value": "Oklahoma"
+        },
+        {
+          "id": 38,
+          "value": "Oregon"
+        },
+        {
+          "id": 39,
+          "value": "Pennsylvania"
+        },
+        {
+          "id": 40,
+          "value": "Rhode Island"
+        },
+        {
+          "id": 41,
+          "value": "South Carolina"
+        },
+        {
+          "id": 42,
+          "value": "South Dakota"
+        },
+        {
+          "id": 43,
+          "value": "Tennessee"
+        },
+        {
+          "id": 44,
+          "value": "Texas"
+        },
+        {
+          "id": 45,
+          "value": "Utah"
+        },
+        {
+          "id": 46,
+          "value": "Vermont"
+        },
+        {
+          "id": 47,
+          "value": "Virginia"
+        },
+        {
+          "id": 48,
+          "value": "Washington"
+        },
+        {
+          "id": 49,
+          "value": "West Virginia"
+        },
+        {
+          "id": 50,
+          "value": "Wisconsin"
+        },
+        {
+          "id": 51,
+          "value": "Wyoming"
+        }
+      ],
+      "phoneType": [
+        {
+          "id": 1,
+          "value": "Mobile"
+        },
+        {
+          "id": 2,
+          "value": "Main"
+        },
+        {
+          "id": 3,
+          "value": "Pagers"
+        },
+        {
+          "id": 4,
+          "value": "Fax"
+        },
+        {
+          "id": 5,
+          "value": "After Hours"
+        },
+        {
+          "id": 6,
+          "value": "Other"
+        }
+      ],
+      "time": [
+        {
+          "id": 1,
+          "value": "00:00 AM"
+        },
+        {
+          "id": 2,
+          "value": "00:30 AM"
+        },
+        {
+          "id": 3,
+          "value": "01:00 AM"
+        },
+        {
+          "id": 4,
+          "value": "01:30 AM"
+        },
+        {
+          "id": 5,
+          "value": "02:00 AM"
+        },
+        {
+          "id": 6,
+          "value": "02:30 AM"
+        },
+        {
+          "id": 7,
+          "value": "03:00 AM"
+        },
+        {
+          "id": 8,
+          "value": "03:30 AM"
+        },
+        {
+          "id": 9,
+          "value": "04:00 AM"
+        },
+        {
+          "id": 10,
+          "value": "04:30 AM"
+        },
+        {
+          "id": 11,
+          "value": "05:00 AM"
+        },
+        {
+          "id": 12,
+          "value": "05:30 AM"
+        },
+        {
+          "id": 13,
+          "value": "06:00 AM"
+        },
+        {
+          "id": 14,
+          "value": "06:30 AM"
+        },
+        {
+          "id": 15,
+          "value": "07:00 AM"
+        },
+        {
+          "id": 16,
+          "value": "07:30 AM"
+        },
+        {
+          "id": 17,
+          "value": "08:00 AM"
+        },
+        {
+          "id": 18,
+          "value": "08:30 AM"
+        },
+        {
+          "id": 19,
+          "value": "09:00 AM"
+        },
+        {
+          "id": 20,
+          "value": "09:30 AM"
+        },
+        {
+          "id": 21,
+          "value": "10:00 AM"
+        },
+        {
+          "id": 22,
+          "value": "10:30 AM"
+        },
+        {
+          "id": 23,
+          "value": "11:00 AM"
+        },
+        {
+          "id": 24,
+          "value": "11:30 AM"
+        },
+        {
+          "id": 25,
+          "value": "12:00 PM"
+        },
+        {
+          "id": 26,
+          "value": "12:30 PM"
+        },
+        {
+          "id": 27,
+          "value": "01:00 PM"
+        },
+        {
+          "id": 28,
+          "value": "01:30 PM"
+        },
+        {
+          "id": 29,
+          "value": "02:00 PM"
+        },
+        {
+          "id": 30,
+          "value": "02:30 PM"
+        },
+        {
+          "id": 31,
+          "value": "03:00 PM"
+        },
+        {
+          "id": 32,
+          "value": "03:30 PM"
+        },
+        {
+          "id": 33,
+          "value": "04:00 PM"
+        },
+        {
+          "id": 34,
+          "value": "04:30 PM"
+        },
+        {
+          "id": 35,
+          "value": "05:00 PM"
+        },
+        {
+          "id": 36,
+          "value": "05:30 PM"
+        },
+        {
+          "id": 37,
+          "value": "06:00 PM"
+        },
+        {
+          "id": 38,
+          "value": "06:30 PM"
+        },
+        {
+          "id": 39,
+          "value": "07:00 PM"
+        },
+        {
+          "id": 40,
+          "value": "07:30 PM"
+        },
+        {
+          "id": 41,
+          "value": "08:00 PM"
+        },
+        {
+          "id": 42,
+          "value": "08:30 PM"
+        },
+        {
+          "id": 43,
+          "value": "09:00 PM"
+        },
+        {
+          "id": 44,
+          "value": "09:30 PM"
+        },
+        {
+          "id": 45,
+          "value": "10:00 PM"
+        },
+        {
+          "id": 46,
+          "value": "10:30 PM"
+        },
+        {
+          "id": 47,
+          "value": "11:00 PM"
+        },
+        {
+          "id": 48,
+          "value": "11:30 PM"
+        }
+      ]
+    }
+  },
+  "agencyList": {
+    "filter": [
+      {
+        "label": "All Agencies",
+        "count": 11
+      },
+      {
+        "label": "Active",
+        "count": 3
+      },
+      {
+        "label": "Inactive",
+        "count": 1
+      },
+      {
+        "label": "Suspended",
+        "count": 0
+      },
+      {
+        "label": "Blacklisted",
+        "count": 1
+      },
+      {
+        "label": "Protected",
+        "count": 1
+      }
+    ],
+    "columns": [
+      {
+        "data": "Agency"
+      },
+      {
+        "data": "State"
+      },
+      {
+        "data": "License ID"
+      },
+      {
+        "data": "Main Contact"
+      },
+      {
+        "data": "Active Agents"
+      },
+      { "data": "Active Transactions" },
+      { "data": "Status" },
+      { "data": "_phone" },
+      { "data": "_email" }
+    ],
+    "data": [
+      {
+        "branch": "Atkinson Leon Plc",
+        "state": "North Dakota",
+        "licenseId": "",
+        "mainContact": "",
+        "activeAgents": 5,
+        "activeTransactions": 0,
+        "status": "Protected",
+        "__branchUrl": "/Agency/Details/B00115",
+        "__agentUrl": "/Agent/Details/A00000",
+        "_phone": "7676640035",
+        "_email": "simug@mailinator.net"
+      },
+      {
+        "branch": "David Pittman Traders",
+        "state": "Arizona",
+        "licenseId": "362958BY",
+        "mainContact": "Winifred Copeland",
+        "activeAgents": 32,
+        "activeTransactions": 5,
+        "status": "Active",
+        "__branchUrl": "/Agency/Details/B00109",
+        "__agentUrl": "/Agent/Details/A00324",
+        "_phone": "6247945173",
+        "_email": "popeze@mailinator.net"
+      },
+      {
+        "branch": "Faulkner Dickson Associates",
+        "state": "Alabama",
+        "licenseId": "",
+        "mainContact": "",
+        "activeAgents": 4,
+        "activeTransactions": 0,
+        "status": "Blacklisted",
+        "__branchUrl": "/Agency/Details/B00112",
+        "__agentUrl": "/Agent/Details/A00000",
+        "_phone": "7919427662",
+        "_email": "kagog@mailinator.com"
+      },
+      {
+        "branch": "Holland Haley Traders",
+        "state": "Montana",
+        "licenseId": "",
+        "mainContact": "",
+        "activeAgents": 4,
+        "activeTransactions": 0,
+        "status": "Active",
+        "__branchUrl": "/Agency/Details/B00111",
+        "__agentUrl": "/Agent/Details/A00000",
+        "_phone": "6131233298",
+        "_email": "qiryviqyv@mailinator.net"
+      },
+      {
+        "branch": "Lester Riley Associates",
+        "state": "",
+        "licenseId": "",
+        "mainContact": "",
+        "activeAgents": 0,
+        "activeTransactions": 0,
+        "status": "",
+        "__branchUrl": "/Agency/Details/B00120",
+        "__agentUrl": "/Agent/Details/A00000",
+        "_phone": "",
+        "_email": ""
+      },
+      {
+        "branch": "Pete Test",
+        "state": "California",
+        "licenseId": "",
+        "mainContact": "Stewart Nicholson",
+        "activeAgents": 0,
+        "activeTransactions": 0,
+        "status": "Active",
+        "__branchUrl": "/Agency/Details/B00118",
+        "__agentUrl": "/Agent/Details/A00343",
+        "_phone": "",
+        "_email": ""
+      },
+      {
+        "branch": "Pierce and Sanchez Trading",
+        "state": "",
+        "licenseId": "",
+        "mainContact": "",
+        "activeAgents": 0,
+        "activeTransactions": 0,
+        "status": "",
+        "__branchUrl": "/Agency/Details/B00122",
+        "__agentUrl": "/Agent/Details/A00000",
+        "_phone": "",
+        "_email": ""
+      },
+      {
+        "branch": "Roach Horn Traders",
+        "state": "North Dakota",
+        "licenseId": "",
+        "mainContact": "",
+        "activeAgents": 0,
+        "activeTransactions": 0,
+        "status": "Departed ",
+        "__branchUrl": "/Agency/Details/B00116",
+        "__agentUrl": "/Agent/Details/A00000",
+        "_phone": "6927681282",
+        "_email": "jysokebov@mailinator.com"
+      },
+      {
+        "branch": "Ross Perkins LLC",
+        "state": "Rhode Island",
+        "licenseId": "",
+        "mainContact": "",
+        "activeAgents": 0,
+        "activeTransactions": 0,
+        "status": "",
+        "__branchUrl": "/Agency/Details/B00119",
+        "__agentUrl": "/Agent/Details/A00000",
+        "_phone": "8496533259",
+        "_email": "nydolure@mailinator.net"
+      },
+      {
+        "branch": "Sellers and Foster Associates",
+        "state": "South Carolina",
+        "licenseId": "",
+        "mainContact": "",
+        "activeAgents": 1,
+        "activeTransactions": 0,
+        "status": "Inactive",
+        "__branchUrl": "/Agency/Details/B00117",
+        "__agentUrl": "/Agent/Details/A00000",
+        "_phone": "5857488265",
+        "_email": "zomuzumo@mailinator.com"
+      },
+      {
+        "branch": "Test Agency",
+        "state": "",
+        "licenseId": "",
+        "mainContact": "",
+        "activeAgents": 0,
+        "activeTransactions": 0,
+        "status": "",
+        "__branchUrl": "/Agency/Details/B00121",
+        "__agentUrl": "/Agent/Details/A00000",
+        "_phone": "",
+        "_email": ""
+      }
+    ]
+  },
+  "agencyDetail": [
+    {
+      "id": 2,
+      "card": {
+        "title": "Agency Details",
+        "editUrl": "/Agency/UpdateBranchForm/",
+        "id": "115"
+      },
+      "company": {
+        "agencyName": "Atkinson Leon Plc",
+        "branchName": "Martin Riggs",
+        "isBranch": false
+      },
+      "address": [
+        {
+          "type": "Primary Contact",
+          "street1": "56 First Parkway",
+          "street2": null,
+          "city": null,
+          "state": "North Dakota",
+          "zip": "97124"
+        },
+        {
+          "type": "Broker of Record",
+          "street1": "98 Oak Parkway",
+          "street2": null,
+          "city": null,
+          "state": "Wisconsin",
+          "zip": "79159"
+        }
+      ],
+      "contact": {
+        "phone": [
+          {
+            "id": 221,
+            "value": "(767) 664-0035",
+            "type": "Main"
+          },
+          {
+            "id": 222,
+            "value": "(767) 664-0035",
+            "type": "Main"
+          }
+        ],
+        "email": [
+          {
+            "id": 188,
+            "value": "simug@mailinator.net"
+          },
+          {
+            "id": 189,
+            "value": "simug@mailinator.net"
+          }
+        ]
+      },
+      "contactTime": {
+        "M": {
+          "open": "09:30 AM",
+          "close": "06:30 AM"
+        },
+        "T": {
+          "open": "09:30 AM",
+          "close": "06:30 AM"
+        },
+        "W": {
+          "open": "09:30 AM",
+          "close": "06:30 AM"
+        },
+        "TH": {
+          "open": "09:30 AM",
+          "close": "06:30 AM"
+        },
+        "F": {
+          "open": "09:30 AM",
+          "close": "06:30 AM"
+        },
+        "S": {
+          "open": "09:30 AM",
+          "close": "06:30 AM"
+        },
+        "SU": {
+          "open": "09:30 AM",
+          "close": "06:30 AM"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "card": {
+        "title": "Agency Details",
+        "editUrl": "/Agency/UpdateBranchForm/",
+        "id": "115"
+      },
+      "company": {
+        "agencyName": "Atkinson Leon Plc",
+        "branchName": "Martin Riggs",
+        "isBranch": false
+      },
+      "address": [
+        {
+          "type": "Primary Contact",
+          "street1": "56 First Parkway",
+          "street2": null,
+          "city": null,
+          "state": "North Dakota",
+          "zip": "97124"
+        },
+        {
+          "type": "Broker of Record",
+          "street1": "98 Oak Parkway",
+          "street2": null,
+          "city": null,
+          "state": "Wisconsin",
+          "zip": "79159"
+        }
+      ],
+      "contact": {
+        "phone": [
+          {
+            "id": 221,
+            "value": "(767) 664-0035",
+            "type": "Main"
+          },
+          {
+            "id": 222,
+            "value": "(767) 664-0035",
+            "type": "Main"
+          }
+        ],
+        "email": [
+          {
+            "id": 188,
+            "value": "simug@mailinator.net"
+          },
+          {
+            "id": 189,
+            "value": "simug@mailinator.net"
+          }
+        ]
+      },
+      "contactTime": {
+        "M": {
+          "open": "09:30 AM",
+          "close": "06:30 AM"
+        },
+        "T": {
+          "open": "09:30 AM",
+          "close": "06:30 AM"
+        },
+        "W": {
+          "open": "09:30 AM",
+          "close": "06:30 AM"
+        },
+        "TH": {
+          "open": "09:30 AM",
+          "close": "06:30 AM"
+        },
+        "F": {
+          "open": "09:30 AM",
+          "close": "06:30 AM"
+        },
+        "S": {
+          "open": "09:30 AM",
+          "close": "06:30 AM"
+        },
+        "SU": {
+          "open": "09:30 AM",
+          "close": "06:30 AM"
+        }
+      }
+    }
+  ]
+}
